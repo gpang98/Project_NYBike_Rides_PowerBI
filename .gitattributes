@@ -1,1 +1,2 @@
 *.pbix filter=lfs diff=lfs merge=lfs -text
+/Resources/*.csv filter=lfs diff=lfs merge=lfs -text
