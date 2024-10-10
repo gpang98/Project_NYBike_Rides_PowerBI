@@ -6,8 +6,11 @@ https://github.com/gpang98/Project_NYBike_Rides_PowerBI/blob/main/Images/01_Main
 Dashboard showing Most Popular Winter End Stations.
 https://github.com/gpang98/Project_NYBike_Rides_PowerBI/blob/main/Images/02_Main_Dashboard_NYBike_Rides_End_Stations_Popularity.jpg
 
-Dashboard showing Winter and Summer Summary.
-https://github.com/gpang98/Project_NYBike_Rides_PowerBI/blob/main/Images/03_Main_Dashboard_NYBikes_Rides_Winter_Summer_Overview.jpg
+Dashboard showing Summer Summary.
+https://github.com/gpang98/Project_NYBike_Rides_PowerBI/blob/main/Images/03_Main_Dashboard_NYBikes_Rides_Summer_Overview.jpg
+
+Dashboard showing Winter Summary.
+https://github.com/gpang98/Project_NYBike_Rides_PowerBI/blob/main/Images/04_Main_Dashboard_NYBikes_Rides_Winter_Overview.jpg
 
 
 ## Overview
